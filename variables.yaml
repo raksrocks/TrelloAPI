@@ -1,0 +1,6 @@
+key:
+  <<API Key here. Get your from https://trello.com/app-key>>
+token:
+  <<token here, get from https://trello.com/1/authorize?expiration=never&scope=read,write,account&response_type=token&name=Server%20Token&key={key}>>
+secret:
+  <<secret here>>
